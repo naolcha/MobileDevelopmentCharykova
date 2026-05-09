@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace wpfPanel
+namespace wpfEventRoute
 {
     /// <summary>
     /// Interaction logic for App.xaml
